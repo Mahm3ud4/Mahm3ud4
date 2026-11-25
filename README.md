@@ -1,9 +1,9 @@
 # Hi there, I'm Mahmoud Ibrahim 👋
 
-🎓 Computer Science student at the Faculty of Computers and Information, Egypt
-💻 Focused on **C++**, **Object-Oriented Programming**, and **Data Structures**
-🚀 Self-studying toward **Full-Stack Development**
-🧩 Competitive programming trainee, solving daily problems on Codeforces
+- 🎓 Computer Science student at the Faculty of Computers and Information, Egypt
+- 💻 Focused on **C++**, **Object-Oriented Programming**, and **Data Structures**
+- 🚀 Self-studying toward **Full-Stack Development**
+- 🧩 Competitive programming trainee, solving daily problems on Codeforces
 
 ---
 
