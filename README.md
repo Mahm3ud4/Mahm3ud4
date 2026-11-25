@@ -19,10 +19,6 @@
 - 🏦 [Bank Account System](https://github.com/Mahm3ud4/Bank-Account-System) — C++ project applying OOP fundamentals: encapsulation, constructor overloading, and data validation
 - 🧼 [Cleaning Company Website](https://github.com/Mahm3ud4/cleaning-wep) — Responsive Arabic (RTL) landing page built with HTML & CSS
 
-## 📊 GitHub Stats
-
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahm3ud4&show_icons=true&hide_border=true)
-
 ## 📫 Reach Me
 
 - **Email:** 0xmahmoud.dev@gmail.com
